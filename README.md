@@ -11,7 +11,7 @@ As a new frontend/UI designer at Sinus skateboards, your assignment is to design
 
 This a 1.0 version intended for desktop.
 
-Exactly how the web shop looks is up to you, but it should feel clean and light, with the products front and centre. The choice of fonts, icons, colors and design language is up to you.
+Exactly how the web shop should look is up to you, but it should feel clean and light, with the products front and centre. The choice of fonts, icons, colors and design language is up to you.
 
 ## Uppdraget - SV
 
