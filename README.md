@@ -1,4 +1,5 @@
-### See the prototype here! ➡️ https://www.figma.com/proto/eOlUpjk9jiBdmYzpBkmdNy/Sinus-web-shop?node-id=10%3A1&scaling=min-zoom
+### See the prototype here! 
+➡️ https://www.figma.com/proto/eOlUpjk9jiBdmYzpBkmdNy/Sinus-web-shop?node-id=10%3A1&scaling=min-zoom
 
 ## Sinus Skateboards a UX/Graphic Design project
 
