@@ -9,7 +9,7 @@ This was a project for a Graphic Design/UX course
 
 As a new frontend/UI designer at Sinus skateboards, your assignment is to design their new web shop! 
 
-This a 1.0 version intended for desktop
+This a 1.0 version intended for desktop.
 
 Exactly how the web shop looks is up to you, but it should feel clean and light, with the products front and centre. The choice of fonts, icons, colors and design language is up to you.
 
